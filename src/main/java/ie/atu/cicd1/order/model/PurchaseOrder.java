@@ -1,7 +1,12 @@
 package ie.atu.cicd1.order.model;
 
+import jakarta.persistence.*;
+
+@Entity
 public class PurchaseOrder {
 
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
     private Long productId;
     private int quantity;
