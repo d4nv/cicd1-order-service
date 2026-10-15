@@ -21,6 +21,8 @@ The `productId` in an order refers to a product owned by the Catalog Service, bu
 
 Catalog Service repository:
 https://github.com/d4nv/cicd1-catalog-service
+Lab 4 - Branch Lab4-sql-fiddle-lab
+
 ## SQL and Normalisation Lab
 
 Final db<>fiddle session: https://dbfiddle.uk/v_I544D1
