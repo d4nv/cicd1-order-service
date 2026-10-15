@@ -23,6 +23,6 @@ Catalog Service repository:
 https://github.com/d4nv/cicd1-catalog-service
 ## SQL and Normalisation Lab
 
-Final db<>fiddle session: https://dbfiddle.uk/ybqAGdA-
+Final db<>fiddle session: https://dbfiddle.uk/v_I544D1
 
 The fiddle contains the completed SQL queries and the written answers as SQL comments.
